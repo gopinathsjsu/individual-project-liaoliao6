@@ -8,4 +8,4 @@
 <li><p>Different formats of input file brought the problem of a variaty of exceptions, which was the secondary problem this project was trying to solve.<br></p> </li>
 </ol>
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Tux, the Linux mascot](//CreditCard/images/)
