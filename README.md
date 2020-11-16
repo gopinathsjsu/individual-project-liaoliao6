@@ -7,3 +7,5 @@
 <li><p>This project was extended to parse different input file formats (json, xml, csv). Strategy pattern was used to decide the input file format and therefore which method was going to be used to parse the file. However, since each file contains lines of credit card records,iterator pattern was incorporated with strategy pattern, so that each line of records was read and processed.<br></p></li>
 <li><p>Different formats of input file brought the problem of a variaty of exceptions, which was the secondary problem this project was trying to solve.<br></p> </li>
 </ol>
+
+![Tux, the Linux mascot](/assets/images/tux.png)
